@@ -1095,3 +1095,82 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.25-21.54.25:588][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
 [2024.01.25-21.54.25:612][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
 [2024.01.25-21.54.25:612][  0]LogShaderCompilers: Display: ================================================
+[2024.01.25-21.54.32:688][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-21.54.33:078][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-21.54.33:095][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-21.54.33:110][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-21.54.37:581][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.25-21.54.37:741][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.01.25-21.54.37:750][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.25-21.54.37:791][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.01.25-21.54.37:792][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.25-21.54.37:805][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.01.25-21.54.37:805][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.25-21.54.37:828][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.01.25-21.54.37:831][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.25-21.54.37:876][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.01.25-21.54.37:877][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.25-21.54.37:913][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.01.25-21.54.37:913][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.25-21.54.37:922][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.01.25-21.54.37:923][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.25-21.54.37:945][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.01.25-21.54.37:946][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.25-21.54.37:961][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.01.25-21.54.37:982][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.25-21.54.37:991][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.01.25-21.54.41:368][  0]LogSlate: Took 0.013169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.25-21.54.41:769][  0]LogSlate: Took 0.021576 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.01.25-21.54.42:020][  0]LogViewport: Scene viewport resized to 1523x845, mode Windowed.
+[2024.01.25-21.54.44:358][  0]LogSlate: Took 0.054437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.01.25-21.54.47:055][  0]LogStall: Startup...
+[2024.01.25-21.54.47:058][  0]LogStall: Startup complete.
+[2024.01.25-21.54.47:229][  0]LogLoad: (Engine Initialization) Total time: 247.37 seconds
+[2024.01.25-21.54.47:229][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.01.25-21.54.49:269][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.01.25-21.54.51:863][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.01.25-21.54.51:911][  1]Running Python start-up script 'D:/unreal/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 1.429082 secs
+[2024.01.25-21.54.52:520][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.01.25-21.54.53:445][  3]LogAssetRegistry: AssetRegistryGather time 14.6456s: AssetDataDiscovery 7.1076s, AssetDataGather 7.1602s, StoreResults 0.3778s.
+[2024.01.25-21.54.53:899][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.013205 seconds (updated 0 objects)
+[2024.01.25-21.55.11:599][ 57]LogSlate: Took 0.024472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.25-21.55.15:961][142]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.25-21.55.16:117][142]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.25-21.55.16:147][142]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.25-21.55.16:208][143]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.25-21.55.18:841][296]LogContentBrowser: Attempting asset rename: NewBlueprint -> 666
+[2024.01.25-21.55.19:612][296]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.25-21.55.21:947][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.25-21.55.23:038][418]LogSlate: Window 'Save Content' being destroyed
+[2024.01.25-21.55.23:083][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-21.55.23:218][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/666" FILE="../../../../../GameDevelopers/GameDevelopers/Content/Character/666.uasset" SILENT=true
+[2024.01.25-21.55.23:273][418]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.007038 seconds
+[2024.01.25-21.55.23:709][418]LogSavePackage: Moving output files for package: /Game/Character/666
+[2024.01.25-21.55.23:709][418]LogSavePackage: Moving '../../../../../GameDevelopers/GameDevelopers/Saved/6666CE01A6A489CC5B20871618A6A3D499E.tmp' to '../../../../../GameDevelopers/GameDevelopers/Content/Character/666.uasset'
+[2024.01.25-21.55.23:812][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 713 ms
+[2024.01.25-21.55.23:812][418]LogStall: Shutdown...
+[2024.01.25-21.55.23:816][418]LogStall: Shutdown complete.
+[2024.01.25-21.55.23:965][418]LogSlate: Window 'lalala - Unreal Editor' being destroyed
+[2024.01.25-21.55.24:958][418]AssetCheck: New page: Asset Save: 666
+[2024.01.25-21.55.24:969][418]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/666.666
+[2024.01.25-21.55.24:973][419]Cmd: QUIT_EDITOR
+[2024.01.25-21.55.24:973][419]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.01.25-21.55.25:040][419]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.01.25-21.55.25:066][419]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.01.25-21.55.25:077][419]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.01.25-21.55.25:469][419]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-21.55.25:496][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-21.55.25:575][419]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.01.25-21.55.26:067][419]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.01.25-21.55.26:763][419]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.01.25-21.55.26:763][419]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.01.25-21.55.26:763][419]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2024.01.25-21.55.26:763][419]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.01.25-21.55.27:070][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.01.25-21.55.27:073][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.01.25-21.55.27:082][419]LogAudio: Display: Audio Device Manager Shutdown
+[2024.01.25-21.55.27:083][419]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.01.25-21.55.27:122][419]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.01.25-21.55.27:131][419]LogExit: Preparing to exit.
+[2024.01.25-21.55.27:988][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
