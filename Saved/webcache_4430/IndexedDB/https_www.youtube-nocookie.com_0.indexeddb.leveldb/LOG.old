@@ -1,0 +1,15 @@
+2024/07/06-15:10:37.313 3b9c Reusing MANIFEST D:/GameDevelopers/GameDevelopers/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/06-15:10:37.313 3b9c Recovering log #4
+2024/07/06-15:10:37.313 3b9c Reusing old log D:/GameDevelopers/GameDevelopers/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/07/06-15:11:43.176 3b9c Level-0 table #8: started
+2024/07/06-15:11:43.448 3b9c Level-0 table #8: 547 bytes OK
+2024/07/06-15:11:43.856 3b9c Delete type=0 #4
+2024/07/06-15:11:43.856 3b9c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/06-15:11:43.856 3b9c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 63 : 1
+2024/07/06-15:11:43.910 3b9c Compacting 1@1 + 1@2 files
+2024/07/06-15:11:44.146 3b9c Generated table #9@1: 17 keys, 515 bytes
+2024/07/06-15:11:44.146 3b9c Compacted 1@1 + 1@2 files => 515 bytes
+2024/07/06-15:11:44.536 3b9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/06-15:11:44.536 3b9c Delete type=2 #5
+2024/07/06-15:11:44.536 3b9c Delete type=2 #8
+2024/07/06-15:11:44.536 3b9c Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 63 : 1 .. (end); will stop at (end)
