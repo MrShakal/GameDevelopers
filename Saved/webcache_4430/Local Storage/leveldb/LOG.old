@@ -1,2 +1,6 @@
-2024/04/22-19:46:14.407 4e18 Creating DB D:/GameDevelopers/GameDevelopers/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/04/22-19:46:14.846 4e18 Reusing MANIFEST D:/GameDevelopers/GameDevelopers/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/06-15:09:21.274 5614 Reusing MANIFEST D:/GameDevelopers/GameDevelopers/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/06-15:09:21.360 5614 Recovering log #3
+2024/07/06-15:09:21.424 5614 Reusing old log D:/GameDevelopers/GameDevelopers/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/07/06-15:11:43.358 5704 Level-0 table #5: started
+2024/07/06-15:11:43.622 5704 Level-0 table #5: 19646 bytes OK
+2024/07/06-15:11:43.912 5704 Delete type=0 #3
