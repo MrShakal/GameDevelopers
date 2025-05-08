@@ -1269,3 +1269,9 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.05.06-02.00.42:329][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [29337 Seconds] waiting for h/w. InstanceID=1
 [2025.05.06-02.00.47:329][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
 [2025.05.08-10.56.10:122][  0]LogDerivedDataCache: C:/Users/yuda1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.060 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3428 files in 4716 folders with total size 604 MiB.
+[2025.05.08-10.59.12:146][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.05.08-11.30.57:038][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.05.08-11.54.31:297][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.05.08-11.56.09:165][  0]LogDerivedDataCache: C:/Users/yuda1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.103 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3428 files in 4716 folders with total size 604 MiB.
+[2025.05.08-12.47.03:771][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.08-13.16.01:004][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
